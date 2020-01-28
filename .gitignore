@@ -197,3 +197,5 @@ dmypy.json
 
 /src/config.py
 config.ini
+
+import-data.code-workspace
