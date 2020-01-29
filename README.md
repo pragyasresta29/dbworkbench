@@ -1,5 +1,5 @@
 # dbworkbench
-Script to fetch, insert data to provided tables.
+Script to fetch, insert data to provided tables from postgres database.
 
 ***Prerequisites***
 1. Edit database credentials in core_database.ini file
